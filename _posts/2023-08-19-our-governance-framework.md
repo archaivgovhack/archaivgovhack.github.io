@@ -6,15 +6,11 @@ date: 2023-08-19
 by: 'Archaiv'
 icon: 'cpu'
 questions:
-  - question: 'Development of image processing'
-    answer: 'Our product works only with PDFs. In the future, we will develop the capability to include images such as JPEG and PNG to the model.'
-    image: "1.gif"
+  - question: 'Our Governance Model'
+    answer: 'See how our governance model works.'
+    image: "governance-model.png"
     
-  - question: 'Enable human feedback'
-    answer: 'One of the major problems we which to address with our product is bias when searching for and tagging historical objects. We will incorporate human feedback to address bias.'
-    
-  - question: 'Set up Governance Board'
-    answer: 'We will create a diverse governance board selected by the communities represented in the historical archives. This governance board will be responsible with addressing bias raised by the community.'
+
 ---
 
-Writing stuff here is the body of the post, I'm not sure where it appears yet.
+Managing the biases in an AI and ensuring it is used in an ethical manner is very important. An oversight Governance Board will be established to ensure Archaiv’s biases are understood and managed. This includes identifying the biases and accounting for them by manually tagging items that fall outside the average of the collection and reviewing any identifications that have been flagged as incorrect. Archaiv will be regularly reviewed and improved through this process to increase the quality of the search results and reduce the risks, such as discrimination, from using AIs for this purpose. The members of this board will be diverse in terms of age, race and gender and particular experience applicable to the archives/ data sets or research projects that are using Archaiv. This board will include Aboriginal and Torres Strait Islander representatives. This board will have strong expertise in data management, ethics and AI development.
