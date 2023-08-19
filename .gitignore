@@ -1,0 +1,8 @@
+# editor things
+.idea
+
+# no datasets please
+data/actmemory/*
+!data/actmemory/.gitkeep
+!data/actmemory/urls.txt
+
