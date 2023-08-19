@@ -4,7 +4,6 @@ title: "Roadmap"
 description: "What will we be doing in the future?"
 date: 2023-08-19
 by: 'Archaiv'
-categories: thaum
 icon: 'cpu'
 questions:
   - question: 'Development of image processing'
@@ -17,5 +16,3 @@ questions:
   - question: 'Set up Governance Board'
     answer: 'We will create a diverse governance board selected by the communities represented in the historical archives. This governance board will be responsible with addressing bias raised by the community.'
 ---
-
-Writing stuff here is the body of the post, I'm not sure where it appears yet.

@@ -12,7 +12,7 @@ description: "description of project"
 baseurl: ""
 url: "https://archaivgovhack.github.io/"
 github_username:  "archaivgovhack"
-color_theme:  "#301934"
+color_theme:  "#f1c232"
 color_text:  "#fff"
 language:  "en"
 
