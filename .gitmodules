@@ -1,0 +1,3 @@
+[submodule "lib/GoEmotions-pytorch"]
+	path = lib/GoEmotions-pytorch
+	url = https://github.com/monologg/GoEmotions-pytorch
