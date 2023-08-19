@@ -6,11 +6,11 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Picture Perfect"
+title: "Archaiv"
 email: archaivgovhack@gmail.com
 description: "description of project"
-baseurl: "/language-of-leadership"
-url: "https://thaum-io.github.io"
+baseurl: "/Archaiv"
+url: "https://archaivgovhack.github.io/"
 github_username:  "archaivgovhack"
 color_theme:  "#301934"
 color_text:  "#fff"
