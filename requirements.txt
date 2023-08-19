@@ -2,3 +2,10 @@ ipython
 selenium
 beautifulsoup4
 requests
+openai 
+langchain
+chromadb 
+tiktoken
+pypdf
+unstructured[local-inference]
+gradio
