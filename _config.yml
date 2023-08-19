@@ -6,13 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: "Language of Power"
-email: contact@thaum.io
+title: "Picture Perfect"
+email: archaivgovhack@gmail.com
 description: "description of project"
 baseurl: "/language-of-leadership"
 url: "https://thaum-io.github.io"
-twitter_username: "thaum_io"
-github_username:  "thaum-io"
+github_username:  "archaivgovhack"
 color_theme:  "#301934"
 color_text:  "#fff"
 language:  "en"
