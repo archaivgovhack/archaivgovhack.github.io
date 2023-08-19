@@ -1,5 +1,5 @@
-# Language of Leadership
-Copyright (c) 2020 Thaum Pty Ltd (https://thaum.io)
+# Archaiv
+Made for Govhack 2023
 
 ## Project Description / Objectives
 
@@ -10,8 +10,5 @@ Copyright (c) 2020 Thaum Pty Ltd (https://thaum.io)
 ## Acknowledgements
 
 ### Authors / Contact
-The team at Thaum (https://thaum.io)
 
-* Prithvi Reddy <prithvi@thaum.io>
-* Mahasen Sooriyabandara <mahasen@thaum.io>
-* Aqeel Akber <aqeel@thaum.io>
+
