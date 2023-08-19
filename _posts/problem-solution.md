@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our Governance Framework"
-description: "The Governance Framework for product"
+title: "Project Plan / Problem / Solution"
+description: "How are we solving the problem?"
 date: 2023-08-19
 by: 'Archaiv'
 icon: 'cpu'

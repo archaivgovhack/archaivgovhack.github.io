@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Our Governance Framework"
-description: "The Governance Framework for product"
+title: "Proof of Concept Chatbot"
+description: "Chatbot to retrieve archive objects PoC"
 date: 2023-08-19
 by: 'Archaiv'
 icon: 'cpu'
