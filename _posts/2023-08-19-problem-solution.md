@@ -10,6 +10,6 @@ questions:
     answer: 'Digital archives have traditionally required tagging so users can search accurately. How can we develop an easier way for archivists and the community to summarise their documents, and make it easier for their users to access what they want?'
     
   - question: 'Solution'
-    answer: 'We are using LLMs to allow searching for relevant documents using natural language, this product will be known as Archaiv. We will allow searching using natural language which will return both a natural language response and structured tags. A diverse and robust governance board will work with the community to reduce bias.'
+    answer: 'We are using a chatbot to allow searching for relevant documents using natural language. This product is called Archaiv. We will allow searching using natural language which will return both a natural language response and structured tags. A diverse and robust governance board will work with the community to reduce bias.'
     
 ---
